@@ -1,0 +1,13 @@
+.error-message{
+    color:red;
+    margin:0;
+    font-size: 12px;
+    line-height: 15px;
+    
+    display:none;
+    position:absolute;
+}
+
+.error-message.error-message__visible{
+    display:block;
+}
